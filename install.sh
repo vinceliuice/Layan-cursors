@@ -10,11 +10,9 @@ else
   DEST_DIR="$HOME/.local/share/icons"
 fi
 
-if [ -d "$DEST_DIR/Layan-cursors" ]; then
-  rm -rf "$DEST_DIR/Layan-cursors"
-fi
-
 cp -r dist/ $DEST_DIR/Layan-cursors
+cp -r dist-border/ $DEST_DIR/Layan-border-cursors
+cp -r dist-white/ $DEST_DIR/Layan-white-cursors
 
 echo "Finished..."
 

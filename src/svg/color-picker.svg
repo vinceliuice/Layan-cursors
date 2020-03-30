@@ -53,6 +53,15 @@
          stdDeviation="1.1"
          id="feGaussianBlur893" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient848"
+       id="linearGradient839"
+       x1="160.89825"
+       y1="869.14825"
+       x2="160.89825"
+       y2="875.14825"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -61,18 +70,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.2390625"
-     inkscape:cx="-10.349385"
-     inkscape:cy="12.894177"
+     inkscape:zoom="10.478125"
+     inkscape:cx="13.207717"
+     inkscape:cy="15.12172"
      inkscape:document-units="px"
      inkscape:current-layer="g12717"
-     showgrid="true"
+     showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
-     inkscape:window-x="0"
-     inkscape:window-y="44"
-     inkscape:window-maximized="1">
+     inkscape:window-width="736"
+     inkscape:window-height="474"
+     inkscape:window-x="607"
+     inkscape:window-y="435"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid828" />
@@ -113,6 +122,11 @@
          d="m 151.95417,871.16333 c 0.4454,-4.18753 3.76297,-7.51818 7.9471,-7.9884 v -2.02669 h 2.0161 v 2.02426 c 4.17983,0.45926 7.49967,3.77247 7.96445,7.94656 h 2.01643 v 2.01408 h -2.01643 c -0.46478,4.1741 -3.78462,7.48731 -7.96445,7.94657 v 2.06853 h -2.0161 v -2.07097 c -4.1546,-0.46691 -7.45487,-3.75401 -7.93723,-7.89986 h -2.06579 v -2.01408 z m 15.95617,0.38646 c -0.28219,-3.46224 -3.08407,-6.21241 -6.57098,-6.41765 h -0.83795 c -3.67829,0.21651 -6.59434,3.26503 -6.59434,6.99396 0,3.86945 3.13999,7.00628 7.01331,7.00628 3.67911,0 6.69655,-2.83011 6.98994,-6.42996 v -1.15265 z"
          p-id="7413"
          id="path6" />
+      <path
+         inkscape:connector-curvature="0"
+         style="display:inline;opacity:1;fill:url(#linearGradient839);fill-opacity:1.0;stroke:none;stroke-width:2.39999652;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         d="m 160.89825,869.14824 a 2.9999957,2.9999957 0 0 0 -3,3 2.9999957,2.9999957 0 0 0 3,3 2.9999957,2.9999957 0 0 0 3,-3 2.9999957,2.9999957 0 0 0 -3,-3 z m 0,1 a 2.0000143,2.0000143 0 0 1 2,2 2.0000143,2.0000143 0 0 1 -2,2 2.0000143,2.0000143 0 0 1 -2,-2 2.0000143,2.0000143 0 0 1 2,-2 z"
+         id="path935" />
     </g>
   </g>
 </svg>
