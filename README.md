@@ -34,3 +34,6 @@ The freshly compiled cursor theme will be located in `dist/`
 ![Layan](preview.png)
 ![Layan](preview-border.png)
 ![Layan](preview-white.png)
+
+## Windows Version
+you can get the windows port here - https://github.com/RandomPenguin1778/Layan-Cursors-for-windows
