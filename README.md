@@ -2,6 +2,9 @@
 This is an x-cursor theme inspired by layan gtk theme and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
+## Windows Version
+you can get the windows port here - [Layan-Cursors-for-windows](https://github.com/RandomPenguin1778/Layan-Cursors-for-windows)
+
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
 directory. For local user installation:
@@ -34,6 +37,3 @@ The freshly compiled cursor theme will be located in `dist/`
 ![Layan](preview.png)
 ![Layan](preview-border.png)
 ![Layan](preview-white.png)
-
-## Windows Version
-you can get the windows port here - https://github.com/RandomPenguin1778/Layan-Cursors-for-windows
