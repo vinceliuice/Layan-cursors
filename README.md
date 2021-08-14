@@ -34,3 +34,6 @@ The freshly compiled cursor theme will be located in `dist/`
 ![Layan](preview.png)
 ![Layan](preview-border.png)
 ![Layan](preview-white.png)
+
+## Video Guide
+Confused ? You can see the installation video below
