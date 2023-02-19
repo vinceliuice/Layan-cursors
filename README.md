@@ -4,7 +4,7 @@ based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
 
 ## Windows Version
 You can get the original Layan Cursors Windows port here - [Layan-Cursors-for-windows](https://github.com/emaxoda/Layan-cursors-for-Windows)
-You can get the Layan Cursors bordered version for Windows here - [Layan Bordered White Cursors for Windows](https://github.com/RandomPenguin1778/Whitesur-Cursors-for-Windows)
+You can get the Layan Cursors bordered version for Windows here - [Layan Bordered White Cursors for Windows](https://github.com/RandomPenguin1778/Layan-White-Cursors-Windows-Port)
 
 ## Installation
 To install the cursor theme simply copy the compiled theme to your icons
